@@ -7,13 +7,11 @@ German named entities from data in CoNLL-X format.
 
 Data:
 
-A dataset comprising of approximately 82000 sentences is used. The whole dataset is divided 
-into 10 parts. We used 8 parts for training, and 2 part for dev-set and the test set respectively. 
+A dataset comprising of approximately 82000 sentences is used. The whole dataset is divided into 10 parts. We used 8 parts for training, and 2 part for dev-set and the test set respectively. 
 
 Model performance:
 
-We got precision of 61.01%, recall of 100.00%, and an F1 score of 75.78, after 10 epochs. We achieved 
-the higher accuracy of 95.56% due to fixing a small error in the model. 
+We got precision of 61.01%, recall of 100.00%, and an F1 score of 75.78, after 10 epochs. We achieved the higher accuracy of 95.56% due to fixing a small error in the model. 
 
 Execution instruction:
 
@@ -22,5 +20,4 @@ Execution instruction:
 
 Acknowledgement:
 
-We would like to thank our professor, Daniel de Kok, for guiding us in a series of emails
-and for being there to answer our questions.
+We would like to thank our professor, Daniel de Kok, for guiding us in a series of emails and for being there to answer our questions.
